@@ -15,7 +15,7 @@ The results from the analysis should help to improve access to rideshare service
 
 ## Data Preparation and Initial Tasks
 
-The software used for this project was Python 3.7.9 and Jupyter Notebook 6.1.4. Before starting the analysis, data was imported from two .csv files for [ride data](https://github.com/jkenning/PyBer_analysis/blob/main/Resources/ride_data.csv) and [city data](https://github.com/jkenning/PyBer_analysis/blob/main/Resources/city_data.csv) respectively. Below is a summary of the initial analyses performed that can be (found [here](https://github.com/jkenning/PyBer_analysis/blob/main/PyBer.ipynb)):
+The software used for this project was Python 3.7.9 and Jupyter Notebook 6.1.4. Before starting the analysis, data was imported from two .csv files for [ride data](https://github.com/jkenning/PyBer_analysis/blob/main/Resources/ride_data.csv) and [city data](https://github.com/jkenning/PyBer_analysis/blob/main/Resources/city_data.csv) respectively. Below is a summary of the initial analyses performed (found [here](https://github.com/jkenning/PyBer_analysis/blob/main/PyBer.ipynb)):
 
 - Imported and inspected the data for completeness
 - Sorted data by city type
