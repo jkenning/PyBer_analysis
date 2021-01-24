@@ -1,4 +1,4 @@
-# Ride-Share Analysis
+# Pyber Ride-Share Analysis
 
 Visualizing the analysis of ride-sharing data, consisting of thousands of journeys across hundreds of cities
 
